@@ -158,7 +158,7 @@
 .close-lightbox {
     height: 35px;
     width: 35px;
-    background-color: #1DB9C3;
+    background-color: #5f88e0;
     color: #fff;
     text-align: center;
     line-height: 35px;
@@ -177,8 +177,15 @@
 
 }
 
+.message {
+    background-color: #01143e;
+    padding: 40px 15px;
+}
 
-
+.message .message-text {
+    flex: 0 0 66.66%;
+    max-width: 66.66%;
+}
 
 .message .message-text h2 {
     font-size: 20px;
@@ -187,4 +194,3 @@
     margin: 0;
     padding: 0;
     line-height: 35px;
-}
