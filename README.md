@@ -1,16 +1,18 @@
-### Portfolio 
+# Portfolio 
 My portfolio website
 
-# 📋Features
+## 📋Features
 
 - About me
 - Services
 - Portfolio
 - Contact
 
-# 🛠️Technologies used
+## 🛠️Technologies used
 
 - HTML5
 - CSS3
 - JavaScript
-Link https://adjascently.github.io/Portfolio/
+
+### Link:-
+https://adjascently.github.io/Portfolio/
